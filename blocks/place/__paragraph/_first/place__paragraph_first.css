@@ -3,7 +3,7 @@
 }
 
 
-@media screen and (max-screen: 1024px) {
+@media screen and (max-width: 1024px) {
   .place__paragraph_first {
     margin-bottom: 27px;
   }
