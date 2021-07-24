@@ -1,0 +1,4 @@
+.place__paragraph-list {
+  grid-area: place__paragraph-list;
+  /* max-width: 484px; */
+}
