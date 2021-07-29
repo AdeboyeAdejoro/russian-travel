@@ -2,7 +2,7 @@
   grid-area: place__title;
   color: #fff;
   max-width: 460px;
-  max-height: 152px;
+  /* max-height: 152px; */
   font-weight: 900;
   font-size: 72px;
   line-height: 76px;
@@ -15,22 +15,22 @@
 @media screen and (max-width: 1024px) {
   .place__title {
     max-width: 440px;
-    max-height: 152px;
-    font-weight: 900;
-    font-size: 72px;
+    /* max-height: 152px; */
+    /* font-weight: 900; */
+    /* font-size: 72px;
     line-height: 76px;
-    margin-top: 0;
+    margin-top: 0; */
     margin-bottom: 16px;
-    box-sizing: border-box;
+    /* box-sizing: border-box; */
   }
 }
 
 @media screen and (max-width: 768px) {
   .place__title {
     max-width: 340px;
-    max-height: 92px;
+    /* max-height: 92px; */
     margin-bottom: 20px;
-    font-weight: 900;
+    /* font-weight: 900; */
     font-size: 42px;
     line-height: 46px;
   }
@@ -39,7 +39,7 @@
 @media screen and (max-width: 320px) {
   .place__title {
     max-width: 288px;
-    max-height: 35px;
+    /* max-height: 35px; */
     margin-bottom: 32px;
     margin-left: 16px;
     font-weight: 900;

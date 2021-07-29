@@ -10,23 +10,23 @@
 
 }
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
   .cover__subtitle {
     max-width: 360px;
     font-weight: normal;
     font-size: 18px;
     line-height: 22px;
   }
-}
+} */
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   .cover__subtitle {
     max-width: 360px;
     font-weight: normal;
     font-size: 18px;
     line-height: 22px;
   }
-}
+} */
 
 @media screen and (max-width: 320px) {
   .cover__subtitle {
