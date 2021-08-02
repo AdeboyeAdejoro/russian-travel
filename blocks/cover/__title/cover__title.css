@@ -6,6 +6,17 @@
   color: #fff;
   margin-bottom: 32px;
   text-align: center;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 1280px) {
+  .cover__title {
+    /* max-width: 560px; */
+    max-width: 100%;
+    /* font-weight: 900;
+    font-size: 72px;
+    line-height: 76px; */
+  }
 }
 
 /* @media screen and (max-width: 1024px) {
@@ -17,18 +28,10 @@
   }
 } */
 
-/* @media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .cover__title {
-    max-width: 560px;
-    font-weight: 900;
-    font-size: 72px;
-    line-height: 76px;
-  }
-} */
-
-@media screen and (max-width: 320px) {
-  .cover__title {
-    max-width: 288px;
+    /* max-width: 288px; */
+    max-width: 100%;
     font-weight: 900;
     font-size: 32px;
     line-height: 35px;

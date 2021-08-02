@@ -17,9 +17,10 @@
   }
 } */
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1024px) {
   .intro__text {
-    max-width: 720px;
+    /* max-width: 720px; */
+    max-width: 100%;
     /* font-weight: normal;
     font-size: 16px;
     line-height: 26px;
@@ -27,9 +28,10 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 768px) {
   .intro__text {
-    max-width: 288px;
+    /* max-width: 288px; */
+    max-width: 100%;
     /* font-weight: normal;
     font-size: 16px;
     line-height: 26px; */
